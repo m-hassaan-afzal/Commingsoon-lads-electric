@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "icon": "test-tube-alt",
+    "title": "Creative UI/UX Design",
+    "text": "We understand user needs and create experiences that solve design challenges and also make people happy. What makes our service unique is the mix of design, technology, and human-centered approach to produce custom visualizations, dashboards, input-intensive applications, and videos."
+  },
+  {
+    "id": 2,
+    "icon": "computer",
+    "title": "Web Development",
+    "text": "Website Design & Development, E-commerce & CMS, UX & UI Design, API & 3rd party Integrations, Responsive Design Support & Maintenance, Web & Social Apps. We create website according to your needs"
+  },
+  {
+    "id": 3,
+    "icon": "android-nexus",
+    "title": "Mobile Application Development",
+    "text": "Development processes have evolved. In an agile environment we have hundreds of tools available to help us conceptualize our ideas. From a small draft on paper a prototype, all the way to the to end"
+  },
+  {
+    "id": 1,
+    "icon": "brainstorming",
+    "title": "Machine Learning /AI",
+    "text": "Our team of experts develops mobile and server machine learning solutions to benefit from the most innovative technological approaches."
+  },
+  {
+    "id": 2,
+    "icon": "abacus-alt",
+    "title": "Dev Ops",
+    "text": "DevOps is an essential part of any system. DevOps helps to plan the architecture for deployment of any product by which it can be available and accessible to the target audience."
+  }
+  
+]
